@@ -4,6 +4,10 @@ A web-based Cake Order & Bakery Management System designed to streamline order h
 
 This software simplifies bakery workflows, including order booking, order tracking, price calculation, and delivery management.
 
+# User Interface Model
+![User_Interface Model](https://github.com/user-attachments/assets/2565ba10-0384-4116-afab-1a798b52940e)
+
+
 ## ✨ Features
 
 Customer & Order Registration
