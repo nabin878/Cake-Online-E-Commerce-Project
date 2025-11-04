@@ -1,4 +1,4 @@
-## 🎂 Cake Order Management System (Bakery Management) Software
+# 🚀 Project 1: Cake Order Management System (Bakery Management) Software
 
 A web-based Cake Order & Bakery Management System designed to streamline order handling, track customer details, and manage cake customization requirements for bakery shops.
 
