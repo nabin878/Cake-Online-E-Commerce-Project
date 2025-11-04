@@ -1,24 +1,25 @@
-How to run the Online Shopping Portal using PHP and MySQL
-1. Download the  zip file
+## 🎂 Cake Order Management System (Bakery Management) Software
 
-2. Extract the file and copy shopping folder
+A web-based Cake Order & Bakery Management System designed to streamline order handling, track customer details, and manage cake customization requirements for bakery shops.
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+This software simplifies bakery workflows, including order booking, order tracking, price calculation, and delivery management.
 
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+## ✨ Features
 
-5. Create a database with name pusoe
+Customer & Order Registration
 
-6. Import shopping file(given inside the zip package in SQL file folder)
+Cake Category & Flavor Management
 
-7.Run the script http://localhost/pusoe (frontend)
+Weight, Shape & Design Selection
 
-8. Link for admin Panel : http://localhost/pusoe/admin
+Order Tracking & Status Update
 
-Login Details:
+Price Calculation System
 
-For Admin :
+Admin Dashboard
 
-User Name : admin
+Invoice/Order Receipt
 
-Password : admin
+Secure User Login
+
+Responsive UI for easy use
