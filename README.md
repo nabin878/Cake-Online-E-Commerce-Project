@@ -29,13 +29,19 @@ Secure User Login
 Responsive UI for easy use
 
 ## 🛠️ Technologies Used
-Category	Details
-Frontend	HTML, CSS, JavaScript, Bootstrap
-Backend	Core PHP
-Database	MySQL (with redundant DB setup)
-Tools	Visual Studio Code, phpMyAdmin
-Server Stack	XAMPP / WAMP
-Web Server	Apache
+Category	Details:
+
+Frontend: 	HTML, CSS, JavaScript, Bootstrap
+
+Backend: 	Core PHP
+
+Database: 	MySQL (with redundant DB setup)
+
+Tools: 	Visual Studio Code, phpMyAdmin
+
+Server:  Stack	XAMPP / WAMP
+
+Web Server: 	Apache
 
 ## 📦 Installation Guide
 ✅ Prerequisites
