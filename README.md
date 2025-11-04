@@ -65,7 +65,7 @@ Create a database (pusoe)
 Import .sql file from project folder
 
 Run the system in browser:
-https://localhost/pusoe
+http://localhost/pusoe
 
 ## 🔐 Admin Login Credentials
 Role	 Username	 Password
