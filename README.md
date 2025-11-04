@@ -39,7 +39,7 @@ Database: 	MySQL (with redundant DB setup)
 
 Tools: 	Visual Studio Code, phpMyAdmin
 
-Server:  Stack	XAMPP / WAMP
+Server Stack: 	XAMPP / WAMP
 
 Web Server: 	Apache
 
