@@ -83,13 +83,21 @@ Admin 	admin	   admin
 
 ## 📂 Project Folder Structure
 /pusoe
+
 │-- assets/
+
 │-- css/
+
 │-- images/
+
 │-- js/
+
 │-- admin/
+
 │-- includes/
-│-- database.sql
+
+│-- pusoe.sql
+
 │-- index.php
 
 ## 📸 Screenshots 
