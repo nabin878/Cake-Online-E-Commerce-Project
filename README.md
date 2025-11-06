@@ -100,7 +100,6 @@ Admin 	admin	   admin
 
 │-- index.php
 
-## 📸 Screenshots 
 
  ## 📝 Future Enhancements
 
