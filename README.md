@@ -78,8 +78,9 @@ Run the system in browser:
 http://localhost/pusoe
 
 ## 🔐 Admin Login Credentials
-Role	 Username	 Password
-Admin 	admin	   admin
+Role	| Username	| Password
+
+Admin | 	admin	  | admin
 
 ## 📂 Project Folder Structure
 /pusoe
